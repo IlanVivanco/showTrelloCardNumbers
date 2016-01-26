@@ -1,7 +1,7 @@
 # showTrelloCardNumbers
 Bookmarklet that shows the numbers of [Trello](http://trello.com/) cards.
 
-![Numbered card sample](numbered-screenshot.png)
+![Numbered card sample](Trello-Card-Numbers.png)
 
 #### Bookmarklet
 Add the bookmarklet by selecting and dragging it to your bookmarks bar. Then go to your Trello Board and click the bookmark to toggle the numbers.
